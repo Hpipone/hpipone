@@ -22,5 +22,3 @@
 
 ## Shout-out To 
 * <b>rajaperak</b>
-# hpipone.github.io
-# hpipone
